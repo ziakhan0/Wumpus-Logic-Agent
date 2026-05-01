@@ -3,7 +3,7 @@
 An intelligent AI simulation of the classic Wumpus World problem, implemented using Python (Flask) and Propositional Logic.
 The agent does not rely on guessing — instead, it uses a Knowledge Base with Resolution Refutation to logically infer safe paths, detect dangers, and make decisions in an uncertain environment.
 
-🚀 Project Overview
+ Project Overview
 
 The Wumpus World is a grid-based environment containing:
 
@@ -20,7 +20,7 @@ Find gold and return home
 
 Instead of random movement, the agent uses logical reasoning (AI Knowledge Base).
 
-🧠 Core Intelligence (AI Logic)
+ Core Intelligence (AI Logic)
 
 This project implements a Knowledge-Based Agent using:
 
